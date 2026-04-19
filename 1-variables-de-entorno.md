@@ -35,6 +35,9 @@ No porque necesita de una variable de entorno asignada a la contraseña de estos
 # COMPLETAR
 
 ### Identificar el problema
+
+El problema es que necesita de una variable de entorno para iniciar el contenedor-
+
 # COMPLETAR
 
 <img width="879" height="78" alt="{C4B53E8E-A7B9-4167-94EC-DB25954B6C7E}" src="https://github.com/user-attachments/assets/e3681738-f3f3-49d5-8c14-8152f1ba3d3b" />

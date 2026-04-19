@@ -2,6 +2,8 @@
 ![Imagen](esquema-4-ejercicio.PNG)
 
 ### Crear la red
+<img width="657" height="76" alt="{44084A8A-B2D3-4A3E-AE40-421F7F9BAD60}" src="https://github.com/user-attachments/assets/f18c4a51-cc71-4a04-863c-052309a2275a" />
+
 # COMPLETAR
 
 ### Crear el contenedor mysql a partir de la imagen mysql:8, configurar las variables de entorno necesarias

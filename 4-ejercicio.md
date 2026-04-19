@@ -63,7 +63,11 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 
 <img width="1251" height="74" alt="{C502B942-CB9D-4F03-9604-6909DD226DE2}" src="https://github.com/user-attachments/assets/f67a0e92-103a-4165-9532-cc86c45608f8" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b510bfd8-419f-4a08-81cf-1f997a1985e6" />
+
 
 ### ¿Qué ha sucedido, qué puede observar?
 # COMPLETAR
+
+Al eliminar el contenedor de WordPress y crearlo nuevamente, se observa que el sitio web no perdió la información previamente configurada. El sitio sigue mostrando el tema seleccionado y la publicación creada anteriormente, lo que indica que los datos se mantienen persistentes. Esto ocurre porque la información no se almacena dentro del contenedor de WordPress, sino en la base de datos de MySQL, la cual no fue eliminada.
 
